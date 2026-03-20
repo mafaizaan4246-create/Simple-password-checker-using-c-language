@@ -15,4 +15,7 @@ printf("Your password is moderate!!");
 else{
 printf("Your password is strong!!");
 }
+finally{
+printf("\nThank you for using our password checker!!");
+}
 }
